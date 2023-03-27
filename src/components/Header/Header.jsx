@@ -12,9 +12,9 @@ const Header = () => {
                 <a href="/order">Order</a>
                 <a href="/inventory">Inventory</a>
                 <a href="/Login">Login</a>
-            </div>
+            </div>                                                                                                                                                                                           
         </nav>
     );
 };
-
+                                                                          
 export default Header;
